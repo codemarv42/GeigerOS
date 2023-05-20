@@ -4,7 +4,7 @@ This repository contains all versions of the GeigerOS software series, as well a
 ![GMZ-06](https://github.com/codemarv42/GeigerOS/blob/main/Media/GMZ-06/PXL_20230520_192320395~2.jpg)
 
 
-![GMZ-05](https://github.com/codemarv42/GeigerOS/blob/main/Media/GMZ-05/4e235e24-2c78-430c-acdd-6adb93e1a7e1.PNG)
+![GMZ-06](https://github.com/codemarv42/GeigerOS/blob/main/Media/GMZ-06/PXL_20230520_192428262~2.jpg)
 
 ## Flash BIN files to the Geiger counter
 
